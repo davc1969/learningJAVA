@@ -4,7 +4,7 @@ public class dataType_primitive {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Valores numéricos enteros: ");
+		System.out.println("Valores numéricos enteros:  ");
 		
 		//Numéricos: Enteros
 		byte entero_corto;
